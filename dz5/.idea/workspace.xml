@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f4a3f1c7-7c9f-44e1-864a-a1c5aa60a08a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WDwYCn5qXuzFADNjP5NmTDquGe" />
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576409003500" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="hr.fer.oop.zad4" />
+      <recent name="hr.fer.oop.zad2" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Drugi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hr.fer.oop.zad4.Drugi" />
+      <module name="dz5" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;C:\Users\Katarina\Desktop\FER\V. SEMESTAR\OOP 2. pokusaj\dz1&quot;" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hr.fer.oop.zad4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaIO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hr.fer.oop.zad1.JavaIO" />
+      <module name="dz5" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;C:\Users\Katarina\Desktop\FER\V. SEMESTAR\OOP 2. pokusaj\dz3\src\dz3\zad1&quot;" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hr.fer.oop.zad1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaNIO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hr.fer.oop.zad3.JavaNIO" />
+      <module name="dz5" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;C:\Users\Katarina\Desktop\FER\V. SEMESTAR\OOP 2. pokusaj\dz3&quot;" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hr.fer.oop.zad3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hr.fer.oop.zad5.Main" />
+      <module name="dz5" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;&quot;" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hr.fer.oop.zad5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Prvi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hr.fer.oop.zad4.Prvi" />
+      <module name="dz5" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;C:\Users\Katarina\Desktop\FER\V. SEMESTAR\OOP 2. pokusaj\dz1&quot;" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hr.fer.oop.zad4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.JavaIO" />
+      <item itemvalue="Application.JavaNIO" />
+      <item itemvalue="Application.Prvi" />
+      <item itemvalue="Application.Drugi" />
+      <item itemvalue="Application.Main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Drugi" />
+        <item itemvalue="Application.Prvi" />
+        <item itemvalue="Application.JavaIO" />
+        <item itemvalue="Application.JavaNIO" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4a3f1c7-7c9f-44e1-864a-a1c5aa60a08a" name="Default Changelist" comment="" />
+      <created>1575833538738</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575833538738</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>Corretto-11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>Corretto-11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

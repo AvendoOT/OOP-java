@@ -1,0 +1,5 @@
+Matea,Vasilj,Ulica Dobrise Cesarica 3 Zagreb,1234
+Leon,Kranjcevic,Mandalicina ulica 26 Otocac, 6420
+Marko,Malkoc,Ulica gejeva 11 Zagreb, 7210
+Karlo,Nakina,Ulica Bartola Kasica Sinac,1066 
+Martin,Cizmesija,Trnje 26 Zagreb, 4320
